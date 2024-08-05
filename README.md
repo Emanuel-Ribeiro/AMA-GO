@@ -1,0 +1,2 @@
+# AMA-GO
+golang app
